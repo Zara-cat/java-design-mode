@@ -1,2 +1,2 @@
 # java-design-mode
-java 23种设计模式，上床
+java 23种设计模式，不好
